@@ -1,1 +1,1 @@
-Esse repositório usarei para salvar os arquivos dos meus estudos
+Esse repositório usarei para salvar os arquivos dos meus estudos em programação
